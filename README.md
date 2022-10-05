@@ -5,7 +5,7 @@
 - 👔 Atualmente trabalho como técnico em assistência técnica.
 - ⛏ Estudando Java
 - 🏹 Em busca de estágio em desenvolvimento de software 
-- 📩 Contate-me: gandolp2015@gmail.com
+- 📩 Contate-me: gandolphini.dev@gmail.com
 
 <div align="center">
   <a href="https://github.com/Gandolphini">
