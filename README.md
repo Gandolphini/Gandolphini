@@ -2,8 +2,8 @@
 
 
 
-- 👔 Atualmente trabalho como técnico em assistência técnica.
-- 🏹 Em busca de estágio em desenvolvimento de software 
+- 👔 Atualmente trabalho como Auxiliar de TI JR.
+- 🏹 Em busca de estágio/Junior em desenvolvimento de software 
 - 📩 Contate-me: gandolphini.dev@gmail.com
 
 <div align="center">
