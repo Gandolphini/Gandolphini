@@ -6,7 +6,7 @@
 - 🏹 Em busca de estágio/Junior em desenvolvimento de software 
 - 📩 Contate-me: gandolphini.dev@gmail.com
 
-“Qualquer tecnologia suficientemente avançada é equivalente à mágica”. Arthur C. Clarke – escritor.
+“Qualquer tecnologia suficientemente avançada é equivalente à mágica”. Arthur C. Clarke 
 
 <div align="center">
   <a href="https://github.com/Gandolphini">
