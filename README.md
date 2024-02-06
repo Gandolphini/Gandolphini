@@ -5,7 +5,8 @@
 - 👔 Atualmente trabalho como Auxiliar de TI JR.
 - 🏹 Em busca de estágio/Junior em desenvolvimento de software 
 - 📩 Contate-me: gandolphini.dev@gmail.com
-- 📃Estudando Java.
+- 📃 Python
+- 📃 Pequenas automações com a biblioteca pyautogui
 
 “Qualquer tecnologia suficientemente avançada é equivalente à mágica”. Arthur C. Clarke 
 
