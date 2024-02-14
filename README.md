@@ -3,7 +3,7 @@
 
 
 - 👔 Atualmente trabalho como Auxiliar de TI JR.
-- 🏹 Em busca de estágio/Junior em desenvolvimento de software 
+- 🏹 Em busca de estágio/Junior em desenvolvimento de software ou Análise de Dados
 - 📩 Contate-me: gandolphini.dev@gmail.com
 - 📃 Python
 - 📃 Pequenas automações com a biblioteca pyautogui
