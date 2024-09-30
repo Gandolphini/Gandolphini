@@ -2,11 +2,10 @@
 
 
 
-- 👔 Atualmente trabalho como Auxiliar de TI JR.
-- 🏹 Em busca de estágio/Junior em desenvolvimento de software.
+- 👔 Desenvolvedor Full Stack.
+- 🏹 Em busca de vaga Júnior em desenvolvimento de software.
 - 📩 Contate-me: gandolphini.dev@gmail.com
-- 📃 HTML| CSS | Js | Python | Bootstrap básico | Flask básico | SQL Básico
-- 📃 Pequenas automações com a biblioteca pyautogui
+- 📃 HTML| CSS | Js | Python (Flask, Pyautogui, Pandas e Numpy) | Java | Bootstrap | SQL | Git e GitHub.
 
 “Qualquer tecnologia suficientemente avançada é equivalente à mágica”. Arthur C. Clarke 
 
