@@ -2,10 +2,9 @@
 
 
 
-- 👔 Desenvolvedor Full Stack.
-- 🏹 Em busca de vaga Júnior em desenvolvimento de software.
+- 👔 Analista de Desenvolvimento de Sofware @CSD BR.
 - 📩 Contate-me: gandolphini.dev@gmail.com
-- 📃 HTML| CSS | Js | Python (Flask, Pyautogui, Pandas e Numpy) | Java | Bootstrap | SQL | Git e GitHub.
+- 📃 HTML| CSS | Js | Clojure | Docker | Kafka | ClojureScript | Bootstrap | Cassandra | Posgress | Git |
 
 “Qualquer tecnologia suficientemente avançada é equivalente à mágica”. Arthur C. Clarke 
 
